@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "wwstringtransform",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWStringTransform",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d8d888d050403473676180ed385a6ad6a6c4a2e4"
+      }
+    }
+  ],
+  "version" : 2
+}

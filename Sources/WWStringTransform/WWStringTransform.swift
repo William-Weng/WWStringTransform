@@ -1,5 +1,9 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+//
+//  WWStringTransform.swift
+//  WWStringTransform
+//
+//  Created by William.Weng on 2024/8/1.
+//
 
 import Foundation
 
